@@ -1,5 +1,4 @@
-[
-  {
+{"categorias":{
     "id": 1,
     "name": "Licencias",
     "tramites": {
@@ -54,4 +53,4 @@
       "bs": "synergize scalable supply-chains"
     }
   }
-]
+}
