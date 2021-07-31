@@ -1,50 +1,53 @@
 [
   {
-    "categoria": "licencias",
-    "tramites": [
-      {
-        "nuevo_permiso": {
-          "titulo": "Permiso de Conducir para Menores de Edad",
-          "costo": {
-            "precio": "$462",
-            "clave": "Clave 14",
-            "link": "14"
+    "categorias": {
+      "licencias": {
+        "tramites": [
+          {
+            "nuevo_permiso": {
+              "titulo": "Permiso de Conducir para Menores de Edad",
+              "costo": {
+                "precio": "$462",
+                "clave": "Clave 14",
+                "link": "14"
+              }
+            },
+            "reposicion_permiso": {
+              "titulo": "Reposición de Permiso de Conducir para Menores de Edad",
+              "costo": {
+                "precio": "$462",
+                "clave": "Clave 14",
+                "link": "14"
+              }
+            },
+            "nueva_lic_A": {
+              "titulo": "Trámite de Licencia A",
+              "costo": {
+                "precio": "$900",
+                "clave": "Clave 01",
+                "link": "01"
+              }
+            },
+            "reposicion_lic_A": {
+              "titulo": "Trámite de Licencia A",
+              "costo": {
+                "precio": "$900",
+                "clave": "Clave 01",
+                "link": "01"
+              }
+            },
+            "reposicion_lic_permanente": {
+              "titulo": "Trámite de Licencia A",
+              "costo": {
+                "precio": "$900",
+                "clave": "Clave 01",
+                "link": "01"
+              }
+            }
           }
-        },
-        "reposicion_permiso": {
-          "titulo": "Reposición de Permiso de Conducir para Menores de Edad",
-          "costo": {
-            "precio": "$462",
-            "clave": "Clave 14",
-            "link": "14"
-          }
-        },
-        "nueva_lic_A": {
-          "titulo": "Trámite de Licencia A",
-          "costo": {
-            "precio": "$900",
-            "clave": "Clave 01",
-            "link": "01"
-          }
-        },
-        "reposicion_lic_A": {
-          "titulo": "Trámite de Licencia A",
-          "costo": {
-            "precio": "$900",
-            "clave": "Clave 01",
-            "link": "01"
-          }
-        },
-        "reposicion_lic_permanente": {
-          "titulo": "Trámite de Licencia A",
-          "costo": {
-            "precio": "$900",
-            "clave": "Clave 01",
-            "link": "01"
-          }
-        }
+        ]
       }
-    ],
+    },
     "docs": {
       "nacional": {
         "desc": "Identificación oficial, original, vigente con fotografía con CURP, datos personales legibles, sin tachaduras ni enmendaduras.",
