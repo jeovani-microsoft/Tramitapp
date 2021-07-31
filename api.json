@@ -1,56 +1,130 @@
-{"categorias":{
-    "id": 1,
-    "name": "Licencias",
-    "tramites": {
-      "name": "Licencia A - Expedición (Nueva)",
-      "costo": "$900",
-      "clave": "01",
-      "clave_link": "https://data.finanzas.cdmx.gob.mx/formato_lc/vehicular/licencias/01",
-      "documentacion": {
-        "id_nacional": {
-          "descripción":"Identificación oficial, original, vigente con fotografía con CURP, datos personales legibles, sin tachaduras ni enmendaduras.",
-          "tipos":"Credencial para votar vigente, Pasaporte de los Estados Unidos Mexicanos vigente, Cédula profesional con fotografía,Cartilla del Servicio Militar Nacional (con más de 10 años de emisión debe de estar resellada)"
-        },
-
-
-        "Comp_domicilio": {
-          "0":"Telmex",
-          "1":"Luz",
-          "2": "Agua",
-          "3": "Predial"
-
-        }
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
+[
   {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
+    "tramites":
+      {
+        "categoria":"Vehículos Particulares",
+        "opciones":[
+          {
+            "name": "Licencias",
+            "tramite":[
+              {
+                "name": "Licencia A - Expedición (Nueva)",
+                "costo":{
+                  "precio":"$900",
+                  "clave": "01",
+                  "clave_link": "https://data.finanzas.cdmx.gob.mx/formato_lc/vehicular/licencias/01"},
+                "comp_pago":{
+                  "desc":"Comprobante de pago de derechos",
+                  "tipo":"$900 Clave 01. Consulta el formato de pago en la sección Costo"
+                  }
+              },
+              {
+              "name": "Licencia A -Reposición/Renovación",
+              "costo":{
+                "precio":"$900",
+                "clave": "01",
+                "clave_link": "https://data.finanzas.cdmx.gob.mx/formato_lc/vehicular/licencias/01"},
+              "documentacion": {
+                "nacional": {
+                  "desc":"Identificación oficial, original, vigente con fotografía con CURP, datos personales legibles, sin tachaduras ni enmendaduras.",
+                  "tipo":[
+                    {"desc":"Credencial para votar vigente"},
+                    {"desc":"Pasaporte de los Estados Unidos"},
+                    {"desc":"Mexicanos vigente"},
+                    {"desc":"Cédula profesional con fotografía"},
+                    {"desc":"Cartilla del Servicio Militar Nacional (con más de 10 años de emisión debe de estar resellada)"}
+                  ]
+                },
+                "extranjero":{
+                  "desc":"En caso de ser persona extrajera deberás:",
+                  "tipo":[
+                    {
+                      "desc":"Presentar pasaporte y comprobar estancia legal en el país mediante visa de residencia temporal con CURP (vigente al día del trámite) o permanente (anteriormente FM2)"
+                    },
+                    {
+                      "desc":"Si ya eres mexicana/o por naturalización, presentar pasaporte vigente de los Estados Unidos Mexicanos, o credencial para votar vigente"
+                    }
+                  ]
+                }
+              },
+              "comp_domicilio": {
+                "desc":" Comprobante de domicilio de la Ciudad de México o del Estado de México, con datos completos del domicilio (calle, número, colonia, alcaldía, código postal); del ejercicio fiscal vigente, y con una antigüedad máxima de tres meses a partir del último día de facturación o, en su caso, el del último bimestre.",
+                "tipo": [
+                  {
+                    "desc":"Boleta del Impuesto Predial del Ejercicio Fiscal en curso, es necesario presentar el comprobante de pago anual."
+                  },
+                  {
+                    "desc":"Boleta del Servicio de Agua."
+                  },
+                  {
+                    "desc":"Recibo del Servicio de Luz."
+                  },
+                  {
+                    "desc":"Recibo del Servicio de Gas Natural."
+                  },
+                  {
+                    "desc":"Estado de Cuenta de Servicio Telefónico Fijo (no se acepta telefonía móvil)."
+                  },
+                  {
+                    "desc":"Estado de Cuenta Bancario (únicamente se aceptará si la persona titular de la cuenta es la propietaria del vehículo)."
+                  }
+                ]
+              },
+              "comp_pago":{
+                "desc":"Comprobante de pago de derechos",
+                "tipo":"$900 Clave 01. Consulta el formato de pago en la sección Costo"
+                }
+
+            }
+            ]
+          }
+        ]
+      },
+    "documentacion": {
+      "nacional": {
+        "desc":"Identificación oficial, original, vigente con fotografía con CURP, datos personales legibles, sin tachaduras ni enmendaduras.",
+        "tipo":[
+          {"desc":"Credencial para votar vigente"},
+          {"desc":"Pasaporte de los Estados Unidos"},
+          {"desc":"Mexicanos vigente"},
+          {"desc":"Cédula profesional con fotografía"},
+          {"desc":"Cartilla del Servicio Militar Nacional (con más de 10 años de emisión debe de estar resellada)"}
+        ]
+      },
+      "extranjero":{
+        "desc":"En caso de ser persona extrajera deberás:",
+        "tipo":[
+          {
+            "desc":"Presentar pasaporte y comprobar estancia legal en el país mediante visa de residencia temporal con CURP (vigente al día del trámite) o permanente (anteriormente FM2)"
+          },
+          {
+            "desc":"Si ya eres mexicana/o por naturalización, presentar pasaporte vigente de los Estados Unidos Mexicanos, o credencial para votar vigente"
+          }
+        ]
       }
     },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
+    "comp_domicilio": {
+      "desc":" Comprobante de domicilio de la Ciudad de México o del Estado de México, con datos completos del domicilio (calle, número, colonia, alcaldía, código postal); del ejercicio fiscal vigente, y con una antigüedad máxima de tres meses a partir del último día de facturación o, en su caso, el del último bimestre.",
+      "tipo": [
+        {
+          "desc":"Boleta del Impuesto Predial del Ejercicio Fiscal en curso, es necesario presentar el comprobante de pago anual."
+        },
+        {
+          "desc":"Boleta del Servicio de Agua."
+        },
+        {
+          "desc":"Recibo del Servicio de Luz."
+        },
+        {
+          "desc":"Recibo del Servicio de Gas Natural."
+        },
+        {
+          "desc":"Estado de Cuenta de Servicio Telefónico Fijo (no se acepta telefonía móvil)."
+        },
+        {
+          "desc":"Estado de Cuenta Bancario (únicamente se aceptará si la persona titular de la cuenta es la propietaria del vehículo)."
+        }
+      ]
     }
   }
-}
+]
