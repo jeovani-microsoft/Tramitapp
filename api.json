@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "Licencias",
+    "categoria": "licencias",
     "tramites": [
       {
         "nuevo_permiso": {
@@ -78,7 +78,7 @@
         ]
       }
     },
-    "docs_menor": "comp_domicilio": {
+    "comp_domicilio": {
       "desc": " Comprobante de domicilio de la Ciudad de México o del Estado de México, con datos completos del domicilio (calle, número, colonia, alcaldía, código postal); del ejercicio fiscal vigente, y con una antigüedad máxima de tres meses a partir del último día de facturación o, en su caso, el del último bimestre.",
       "tipo": [
         {
