@@ -62,7 +62,10 @@ Bajo estas circunstancias el gasto mensual es de USD 748.76 ($14,886.62 MXN) lo 
 ----
 ### Qué te pareció el evento
 
-Es un evento bastante interesante , que te permite desarrol habilidades y ampliar conocimientos en el ambito tecnológico.
-----
+Es un evento bastante interesante , que te permite desarrol habilidades y ampliar conocimientos en el ambito tecnológico.Es un evento bastante interesante , que te permite desarrol habilidades y ampliar conocimientos en el ambito tecnológico.
+Sin duda una excelente experiencia, teniendo varios tropiesos, pero intentandolo cada vez màs.
+Dando el màximo esfuerzo, con momentos demasiado estresantes, acompañado este viaje de compañeros condistinto pensar que ayuda a seguir avanzando en este hackatho.
+Muchas Gracias Sherpas, staff y compañer una gran expereincia.
+Dolores Barrios 
 
 Fue una exelente oportunidad para convivir con la comunidad técnológica. Estuvo llena de retos tanto tecnológicos como personales. HAce poco me di cuenta de lo desfasado que me encuentro en cuanto a las nuevas tecnologías y estoy haciendo un esfuerzo por ponerme al día. Esta experiencias me agradables momentos y estresantes como estos últimos días pero de todo se aprende. Me llevo una excelenete experiencia y me quedo con ganas de seguir participando en estos eventos. Ojalá en algún punto pueda estar del otro lado. Gracias a todos los del Staff y a mis compañeros. Jeovani Morales.
