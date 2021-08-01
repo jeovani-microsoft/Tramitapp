@@ -49,15 +49,7 @@
     "automovil": {
       "tramites": {
         "nuevo_permiso": {
-          "titulo": "Permiso de Conducir para Menores de Edad",
-          "costo": {
-            "precio": "$462",
-            "clave": "Clave 14",
-            "link": "14"
-          }
-        },
-        "reposicion_permiso": {
-          "titulo": "Reposición de Permiso de Conducir para Menores de Edad",
+          "titulo": "Expedición de Permiso para menores de edad, Tipo P",
           "costo": {
             "precio": "$462",
             "clave": "Clave 14",
@@ -65,27 +57,43 @@
           }
         },
         "nueva_lic_A": {
-          "titulo": "Trámite de Licencia A",
+          "titulo": ". Licencia de conducir tipo 'A' para vehículos particulares",
           "costo": {
             "precio": "$900",
             "clave": "Clave 01",
             "link": "01"
           }
         },
-        "reposicion_lic_A": {
-          "titulo": "Trámite de Licencia A",
+        "nueva_lic_B": {
+          "titulo": "Licencia de conducir tipo 'B' para taxi",
           "costo": {
-            "precio": "$900",
-            "clave": "Clave 01",
-            "link": "01"
+            "precio": "$1,681",
+            "clave": "Clave 07",
+            "link": "07"
           }
         },
-        "reposicion_lic_permanente": {
-          "titulo": "Trámite de Licencia A",
+        "nueva_lic_C": {
+          "titulo": "Licencia de conducir tipo 'C' para transporte colectivo de pasajeros",
           "costo": {
-            "precio": "$900",
-            "clave": "Clave 01",
-            "link": "01"
+            "precio": "$2,431",
+            "clave": "Clave 11",
+            "link": "11"
+          }
+        },
+        "nueva_lic_D": {
+          "titulo": "Licencia de conducir tipo 'D' para transporte de carga",
+          "costo": {
+            "precio": "$2,431",
+            "clave": "Clave 11",
+            "link": "11"
+          }
+        },
+        "nueva_lic_E": {
+          "titulo": "Licencia de conducir tipo 'E' para transporte especializado",
+          "costo": {
+            "precio": "$2,431",
+            "clave": "Clave 11",
+            "link": "11"
           }
         }
       }
