@@ -23,9 +23,10 @@ https://vm.tiktok.com/ZMd3JNVeN/
 
 ![TIA](https://user-images.githubusercontent.com/86895225/127780016-4cac88d2-6bcd-40e1-98b9-d9c112348192.png)
 
-
+----
 ### Qué te pareció el evento
 
 Es un evento bastante interesante , que te permite desarrol habilidades y ampliar conocimientos en el ambito tecnológico.
+----
 
 Fue una exelente oportunidad para convivir con la comunidad técnológica. Estuvo llena de retos tanto tecnológicos como personales. HAce poco me di cuenta de lo desfasado que me encuentro en cuanto a las nuevas tecnologías y estoy haciendo un esfuerzo por ponerme al día. Esta experiencias me agradables momentos y estresantes como estos últimos días pero de todo se aprende. Me llevo una excelenete experiencia y me quedo con ganas de seguir participando en estos eventos. Ojalá en algún punto pueda estar del otro lado. Gracias a todos los del Staff y a mis compañeros. Jeovani Morales.
