@@ -24,6 +24,7 @@ https://vm.tiktok.com/ZMd3JNVeN/
 ### TCO 3 años y Precio Total por mes
 
 TCO a 3 años
+
 Nuestra propuesta al ser una Web app, no consideramos el uso de maquinas virtuales como tal. Para los workloads definimos:
 * *Database:* My SQL en una maquina virtual con Windows Standar de 2 cores y 4Gb de Ram. Destinada a 200 usuarios en concurrencia. Consideramos que aunque muchos ciudadanos pueden solicitar trámites, no todos lo harán al mismo tiempo.
 * *Storage:* Un disco SSD con capacidad de 1 TB, al igual en Bakup y Archive 
