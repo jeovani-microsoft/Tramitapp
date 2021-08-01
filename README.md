@@ -1,6 +1,3 @@
-![SLA](https://user-images.githubusercontent.com/86895225/127779813-e62777f8-088c-46ef-92ea-045e4884d1e4.png)
-
-
 ![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
 
 # Tramitapp
