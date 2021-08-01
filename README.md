@@ -15,6 +15,7 @@ https://vm.tiktok.com/ZMd3JNVeN/
 
 ### Diagrama de Azure
 ![alt text](https://github.com/jeovani-microsoft/Tramitapp/blob/main/diagrama.png)
+[I'm an inline-style link](https://www.google.com)
 
 
 ### SLA Compuesto
