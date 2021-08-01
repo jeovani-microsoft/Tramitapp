@@ -29,7 +29,7 @@ Nuestra propuesta al ser una Web app, no consideramos el uso de maquinas virtual
 * *Storage:* Un disco SSD con capacidad de 1 TB, al igual en Bakup y Archive 
 * *Networking:* Consideramos un ancho de banda de 2Gb ya que las operaciones que se realizaran en la plataforma no requieren demsiado tiempo, salvo al subir archivos, pero el resto es de lectura de información.
 
-Con estas consideraciones obtenemos que al utilizar Azure durante 3 años en la región del Este de Estados Unidos, nos ahoraríamos la nada despreciable cantidad de USD 3,206 ($63,740.73 MXN) coo se puede apreciar en las siguientes imágenes.
+Con estas consideraciones obtenemos que al utilizar Azure durante 3 años en la región del Este de Estados Unidos, nos ahoraríamos la nada despreciable cantidad de USD 3,206 ($63,740.73 MXN) como se puede apreciar en las siguientes imágenes.
 
 
 
