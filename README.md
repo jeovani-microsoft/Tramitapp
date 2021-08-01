@@ -15,15 +15,15 @@ https://vm.tiktok.com/ZMd3JNVeN/
 
 ### Diagrama de Azure
 ![alt text](https://github.com/jeovani-microsoft/Tramitapp/blob/main/diagrama.png)
-[I'm an inline-style link](https://www.google.com)
+
 
 
 ### SLA Compuesto
 ![SLA](https://user-images.githubusercontent.com/86895225/127779895-56f78167-c2bf-4311-aee1-3e978c6cf11b.png)
 
 ### TCO 3 años y Precio Total por mes
-[TCO 3 años] https://azure.com/tco/1c046bb40bec49c6852e81962b8ec829/
 
+TCO a 3 años
 Nuestra propuesta al ser una Web app, no consideramos el uso de maquinas virtuales como tal. Para los workloads definimos:
 * *Database:* My SQL en una maquina virtual con Windows Standar de 2 cores y 4Gb de Ram. Destinada a 200 usuarios en concurrencia. Consideramos que aunque muchos ciudadanos pueden solicitar trámites, no todos lo harán al mismo tiempo.
 * *Storage:* Un disco SSD con capacidad de 1 TB, al igual en Bakup y Archive 
@@ -31,7 +31,7 @@ Nuestra propuesta al ser una Web app, no consideramos el uso de maquinas virtual
 
 Con estas consideraciones obtenemos que al utilizar Azure durante 3 años en la región del Este de Estados Unidos, nos ahoraríamos la nada despreciable cantidad de USD 3,206 ($63,740.73 MXN) coo se puede apreciar en las siguientes imágenes.
 
-[TCO a 3 años](https://azure.com/tco/82512c73fe5a4ec5beeab8459ec9b69f/)
+
 
 ![image](https://user-images.githubusercontent.com/86895225/127781106-a4228145-933b-4119-b77a-51ada42dc4be.png)
 
@@ -42,13 +42,13 @@ Con estas consideraciones obtenemos que al utilizar Azure durante 3 años en la 
 ![image](https://user-images.githubusercontent.com/86895225/127781149-72f8aee5-0b89-4508-beca-fdbaa2d72c51.png)
 
 
-Por otra parte, el [cálculo mensual](https://azure.com/e/c46b3c475d8a43bb8a9068b44f3891d8) se obtuvo de al cotizar los siguientes productos:
+Por otra parte, el cálculo mensual se obtuvo de al cotizar los siguientes productos:
 
 * *Cuenta de Lamcenamiento*: En la región este de Estados Unidos de tipo File Storage con un alamcenamiento de 1000 GB y un Servidr para sincronización.
 * *APP Service:* Una instancia B1 para 730 Horas, utilizando Windows en la región del Este de Estados Unidos.
 * *Azure SQL Database:* Una instancia aprovisionada para 730 Horas en la region del Este de Estados Unidos de tipo Single Database y de proposito general 5ta Generacion con redundancia local. Se reservo por 3 años con una licencia de Azure Hybrid Benefit y un almacenamiento de 1 Tera, un respaldo de 256gb y %gb para la retención.
 
-Bajo estas circunstancias el gasto mensual es de USD 748.76 ($14,886.62 MXN) lo cual lo podemos ver [este informe](https://azure.com/e/c46b3c475d8a43bb8a9068b44f3891d8).
+Bajo estas circunstancias el gasto mensual es de USD 748.76 ($14,886.62 MXN) lo cual lo podemos ver en este informe.
 
 ![image](https://user-images.githubusercontent.com/86895225/127781674-f21ba4da-a374-49b5-a245-15a030587e90.png)
 
