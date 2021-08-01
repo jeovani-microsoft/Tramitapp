@@ -21,7 +21,7 @@ https://vm.tiktok.com/ZMd3JNVeN/
 
 ### Tiempo sin disponibilidad a un año
 
-![TIA](https://user-images.githubusercontent.com/86895225/127779894-7b00c52a-9ea2-44cd-9a93-8d7a9a290769.png)
+![TIA](https://user-images.githubusercontent.com/86895225/127780016-4cac88d2-6bcd-40e1-98b9-d9c112348192.png)
 
 
 ### Qué te pareció el evento
