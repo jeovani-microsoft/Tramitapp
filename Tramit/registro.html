@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/registro.css">
+    <title>Registro</title>
+</head>
+<body>
+    <div class="contenedor" >
+       <!-- <img class="avatar" src="img/usuario.png" alt="usuario">-->
+        <h1>Registro</h1>
+        <form method="POST" >
+         <!-- nombre -->
+         <label for="username">Nombre</label>
+         <input class="controls" type="text" placeholder="nombre" name="nombre">
+         <!-- correo -->
+         <label for="password">Correo</label>
+         <input class="controls" type="text" placeholder="correo" name="correo">
+         <!-- contraseña y confirmacion-->
+         <label for="password">Contraseña</label>
+         <input class="controls" type="password" placeholder="contraseña" name="contraseña">  
+         
+         <label for="password">Confirmar Contraseña</label>
+         <input class="controls" type="password" placeholder="confirmar contraseña" name="confirmcontra">    
+          <br><br>
+         <input class="boton" type="submit" name="enviar" value="registro" href="#">
+          <br><br>
+          <a href="acceder.html">Ya tengo cuenta</a>
+        </form>
+    </div>
+</body>
+</html>
