@@ -8,6 +8,8 @@
 
 TramitAPP es una web app que busca arrorar tiempo en los trámites gubernamentales y reducir el risgo de contagios por COVID19 en los tiempos de espera para esos trámites. Como equipo notamos que mucho del tiempo de espera segenerá en la revisiónde documentos, por lo que proponemos una web app que permita subir los documentos para su revisón previo a la cita. De esta manera tu acudes a al cita solo por el tiempo justo que necesitas reduciendo el tiempo de espera, así como el riesgo de contagio.
 
+https://lemon-dune-0d9eb8310.azurestaticapps.net/
+
 ### Link al Tiktok
 https://vm.tiktok.com/ZMd3JNVeN/
 
