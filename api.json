@@ -63,7 +63,7 @@
           }
         },
         "nueva_lic_A": {
-          "titulo": ". Licencia de conducir tipo 'A' para vehículos particulares",
+          "titulo": "Licencia de conducir tipo 'A' para vehículos particulares",
           "costo": {
             "precio": "$900",
             "clave": "Clave 01",
