@@ -1,0 +1,137 @@
+{
+  "categorias": {
+    "licencias": {
+      "tramites": {
+        "nuevo_permiso": {
+          "titulo": "Expedición de Permiso para menores de edad, Tipo P",
+          "costo": {
+            "precio": "$462",
+            "clave": "Clave 14",
+            "link": "14"
+          }
+        },
+        "nueva_lic_A": {
+          "titulo": "Licencia de conducir tipo 'A' para vehículos particulares",
+          "costo": {
+            "precio": "$900",
+            "clave": "Clave 01",
+            "link": "01"
+          }
+        },
+        "nueva_lic_B": {
+          "titulo": "Licencia de conducir tipo 'B' para taxi",
+          "costo": {
+            "precio": "$1,681",
+            "clave": "Clave 07",
+            "link": "07"
+          }
+        },
+        "nueva_lic_C": {
+          "titulo": "Licencia de conducir tipo 'C' para transporte colectivo de pasajeros",
+          "costo": {
+            "precio": "$2,431",
+            "clave": "Clave 11",
+            "link": "11"
+          }
+        },
+        "nueva_lic_D": {
+          "titulo": "Licencia de conducir tipo 'D' para transporte de carga",
+          "costo": {
+            "precio": "$2,431",
+            "clave": "Clave 11",
+            "link": "11"
+          }
+        },
+        "nueva_lic_E": {
+          "titulo": "Licencia de conducir tipo 'E' para transporte especializado",
+          "costo": {
+            "precio": "$2,431",
+            "clave": "Clave 11",
+            "link": "11"
+          }
+        }
+      }
+    },
+    "automovil": {
+      "tramites": {
+        "alta_placa_nueva": {
+          "titulo": "Alta de placas de vehículo nuevo",
+          "costo": {
+            "precio": "$766",
+            "clave": "Clave 14",
+            "link": "14"
+          }
+        },
+        "alta_placa_usado": {
+          "titulo": "Alta de placas de vehículo usado",
+          "costo": {
+            "precio": "$766",
+            "clave": "Clave 01",
+            "link": "01"
+          }
+        },
+        "baja_placa": {
+          "titulo": "Baja de placas de vehículo",
+          "costo": {
+            "precio": "$465.00",
+            "clave": "Clave 36-2",
+            "link": "36-2"
+          }
+        }
+      }
+    }
+  },
+  "docs": {
+    "nacional": {
+      "desc": "Identificación oficial, original, vigente con fotografía con CURP, datos personales legibles, sin tachaduras ni enmendaduras.",
+      "tipo": [
+        {
+          "desc": "Credencial para votar vigente"
+        },
+        {
+          "desc": "Pasaporte de los Estados Unidos Mexicanos vigente"
+        },
+        {
+          "desc": "Cédula profesional con fotografía"
+        },
+        {
+          "desc": "Cartilla del Servicio Militar Nacional (con más de 10 años de emisión debe de estar resellada)"
+        }
+      ]
+    },
+    "extranjero": {
+      "desc": "En caso de ser persona extrajera deberás:",
+      "tipo": [
+        {
+          "desc": "Presentar pasaporte y comprobar estancia legal en el país mediante visa de residencia temporal con CURP (vigente al día del trámite) o permanente (anteriormente FM2)"
+        },
+        {
+          "desc": "Si ya eres mexicana/o por naturalización, presentar pasaporte vigente de los Estados Unidos Mexicanos, o credencial para votar vigente"
+        }
+      ]
+    }
+  },
+  "comp_domicilio": {
+    "desc": " Comprobante de domicilio de la Ciudad de México o del Estado de México, con datos completos del domicilio (calle, número, colonia, alcaldía, código postal); del ejercicio fiscal vigente, y con una antigüedad máxima de tres meses a partir del último día de facturación o, en su caso, el del último bimestre.",
+    "tipo": [
+      {
+        "desc": "Boleta del Impuesto Predial del Ejercicio Fiscal en curso, es necesario presentar el comprobante de pago anual."
+      },
+      {
+        "desc": "Boleta del Servicio de Agua."
+      },
+      {
+        "desc": "Recibo del Servicio de Luz."
+      },
+      {
+        "desc": "Recibo del Servicio de Gas Natural."
+      },
+      {
+        "desc": "Estado de Cuenta de Servicio Telefónico Fijo (no se acepta telefonía móvil)."
+      },
+      {
+        "desc": "Estado de Cuenta Bancario (únicamente se aceptará si la persona titular de la cuenta es la propietaria del vehículo)."
+      }
+    ]
+  }
+}
