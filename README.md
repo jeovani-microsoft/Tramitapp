@@ -12,7 +12,7 @@ TramitAPP es una web app que busca arrorar tiempo en los trámites gubernamental
 https://vm.tiktok.com/ZMd3JNVeN/
 
 ### Diagrama de Azure
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jeovani-microsoft/Tramitapp/blob/main/diagrama.png)
 ### SLA Compuesto
 
 ### TCO 3 años y Precio Total por mes
