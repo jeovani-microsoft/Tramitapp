@@ -57,7 +57,7 @@
         "alta_placa_nueva": {
           "titulo": "Alta de placas de vehículo nuevo",
           "costo": {
-            "precio": "$462",
+            "precio": "$766",
             "clave": "Clave 14",
             "link": "14"
           }
@@ -65,7 +65,7 @@
         "alta_placa_usado": {
           "titulo": "Alta de placas de vehículo usado",
           "costo": {
-            "precio": "$900",
+            "precio": "$766",
             "clave": "Clave 01",
             "link": "01"
           }
@@ -73,9 +73,9 @@
         "baja_placa": {
           "titulo": "Baja de placas de vehículo",
           "costo": {
-            "precio": "$1,681",
-            "clave": "Clave 07",
-            "link": "07"
+            "precio": "$465.00",
+            "clave": "Clave 36-2",
+            "link": "36-2"
           }
         }
       }
